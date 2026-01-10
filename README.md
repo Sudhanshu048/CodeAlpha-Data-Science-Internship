@@ -1,4 +1,4 @@
-#  CodeAlpha Machine Learning Internship
+#  CodeAlpha Data Science Internship
 (Updated by Mrunal)
 This repository contains all the tasks completed ,focusing on real-world machine learning problems using Python.
 
