@@ -1,5 +1,5 @@
 #  CodeAlpha Data Science Internship
-(Updated by Mrunal)
+(Updated by Sudhanshu)
 This repository contains all the tasks completed ,focusing on real-world machine learning problems using Python.
 
 The work demonstrates data preprocessing, model building, evaluation, and result interpretation using industry-standard tools.
